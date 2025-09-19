@@ -5,3 +5,7 @@ Answer: Github and Git allows for many different people to share and collaborate
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: An easy answer to this would be for businesses. It allows businesses to analyze customer patterns and adjust their websites or stores to improve sales and customer experiences.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines the histories of two branches, creating a new commit that ties them together. Rebasing moves or replays commits from one branch on top of another, creating a linear history without an extra merge commit.
